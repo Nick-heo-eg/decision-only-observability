@@ -11,6 +11,8 @@ See the overarching map:
 
 ---
 
+This repository evaluates when to invoke or stop execution as a boundary problem, not as a performance competition.
+
 Notes on observing decision-only (non-executed) operations using existing OpenTelemetry concepts.
 
 This repository is an informational reference and does not propose new standards or semantic conventions.
